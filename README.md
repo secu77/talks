@@ -15,6 +15,11 @@ Talks and Workshops
 [**Diseña y despliega tu propia Infraestructura Privada**](2022/01_navajanegra/)
 <br>[ES] | Workshop | 11/11/2022 | [Navaja Negra](https://www.navajanegra.com/2022/class/disena-y-despliega-tu-propia-infraestructura-privada/)
 
+## 2021
+
+[**Seguridad Preventiva en Internet**](2021/01_ayto_monzon/)
+<br>[ES] | Workshop | 29/11/2021 | [Ayuntamiento de Monzón](https://www.monzon.es)
+
 ## 2020
 
 [**Mística: Anything is a tunnel if you're brave enough - Covert channels for everyone!**](2020/02_blackhat/)
