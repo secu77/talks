@@ -4,6 +4,9 @@ Talks and Workshops
 
 ## 2023
 
+[**Kraken, a modular multi-language webshell for defense evasion**](2023/03_defcon31/)
+<br>[EN] | DemoLabs | 08/07/2023 | [Defcon31](https://forum.defcon.org/node/246335)
+
 [**Practical Exploitation with Kraken**](2023/02_euskalhack/)
 <br>[ES] | Workshop | 24/06/2023 | [EuskalHack](https://www.euskalhack.org/securitycongress/#talleres)
 
