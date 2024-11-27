@@ -2,6 +2,11 @@
 
 Talks and Workshops
 
+## 2024
+
+[**Implantes Web - Conoce a tu enemigo y defiendete**](2024/01_ccn-cert-stic/)
+<br>[ES] | Talk | 27/11/2024 | [CCN-CERT-STIC](https://jornadas.ccn-cert.cni.es/es/xviiijornadas-programa-general/xviii-jornadas-ccn-cert/ponencia/implantes-web-conoce-a-tu-enemigo-y-defiendete)
+
 ## 2023
 
 [**Kraken, a modular multi-language webshell for defense evasion**](2023/03_defcon31/)
